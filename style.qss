@@ -1,0 +1,79 @@
+QWidget[theme='dark'] {
+    background-color:rgb(6, 82, 66);
+}
+
+QWidget[theme='light'] {
+    background-color:rgb(183, 205, 182);
+}
+
+QPushButton#btn_start{
+    background-color:rgb(255, 255, 255);
+    color:rgb(6, 82, 66);
+    padding-top:30px;
+    padding-bottom:30px;
+    border-style:solid;
+    border-radius:30px;
+}
+
+QPushButton#btn_start:hover{
+    background-color:rgb(255, 255, 255, 0.9);
+}
+
+QPushButton#btn_start:pressed{
+    background-color:rgb(255, 255, 255, 0.7);
+}
+
+/*QLabel#label_cam{
+    background-color:rgb(255, 255, 255);
+    color:rgb(6, 82, 66);
+    padding:20px;
+    border-style:solid;
+    border-radius:20px;
+}*/
+
+QFrame.menu,
+QFrame.option{
+    background-color:rgb(255, 255, 255);
+    color:rgb(6, 82, 66);
+    padding:20px 20px 10px 20px;
+    border-style:solid;
+    border-radius:20px;
+}
+
+QLabel#label_ment{
+    background-color: #065242;
+    color: white;
+    width: 100%;
+    padding: 15px 0px;
+    border-radius: 10px;
+}
+
+QLabel#label_order{
+    background-color: white;
+    color: #065242;
+    border-radius: 15px;
+}
+
+QPushButton#btn_check{
+    background-color: #065242;
+    color: white;
+    border-radius: 10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin: 5px 5px;
+}
+
+QPushButton#btn_check:hover{
+    background-color: white;
+    color: #065242;
+}
+
+QPushButton#btn_check:pressed{
+    background-color:rgb(255, 255, 255, 0.7);
+}
+
+QScrollArea{
+    background-color: white;
+    color: #065242;
+    border-radius: 15px;
+}

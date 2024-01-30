@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/delivery-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fastcampus-loan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fastcampus-project-board" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/food_watch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loan_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pass-batch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pharmacy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice_board" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice_memberService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/servlet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sns" vcs="Git" />
+  </component>
+</project>
